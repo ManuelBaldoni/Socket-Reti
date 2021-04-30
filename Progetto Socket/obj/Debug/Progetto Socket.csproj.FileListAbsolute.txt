@@ -1,0 +1,15 @@
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\bin\Debug\Progetto Socket.exe.config
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\bin\Debug\Progetto Socket.exe
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\bin\Debug\Progetto Socket.pdb
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.csprojAssemblyReference.cache
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\MainWindow.g.cs
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\App.g.cs
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket_MarkupCompile.cache
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket_MarkupCompile.lref
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\MainWindow.baml
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.g.resources
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto_Socket.Properties.Resources.resources
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.csproj.GenerateResource.cache
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.csproj.CoreCompileInputs.cache
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.exe
+C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.pdb
