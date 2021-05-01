@@ -58,7 +58,7 @@ namespace Scacchi_V2._0
             timerBianco.Tick += TimerBianco_Tick;
             timerBianco.Interval = new TimeSpan(0, 0, 1);
 
-            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.7"), 56000);
+            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.4"), 56000);
 
             Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
             ricezione.Start(sourceSocket);
