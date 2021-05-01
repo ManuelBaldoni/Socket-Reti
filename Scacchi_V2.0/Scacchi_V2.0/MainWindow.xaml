@@ -77,7 +77,7 @@
         <Rectangle Grid.Column="1" Fill="#e3e3e3" Height="100" Width="250" VerticalAlignment="Top" Margin="0, 100, 50, 0" Stroke="Black" StrokeThickness="3" RadiusX="20" RadiusY="20" Opacity="0.8"/>
         <TextBlock x:Name="TXTTimerNero" Grid.Column="1" Text="5:00" Height="100" Width="250" VerticalAlignment="Top" Margin="0, 100, 50, 0" TextAlignment="Center" FontSize="70"/>
 
-        <TextBlock x:Name="TXTMosse" Grid.Column="1" VerticalAlignment="Center" Width="100" Height="400" HorizontalAlignment="Center" TextAlignment="Center" FontSize="30" Margin="46,205,246,265"/>
+        <TextBlock x:Name="TXTMosse" Grid.Column="1" Text="ciao" VerticalAlignment="Center" Width="100" Height="400" HorizontalAlignment="Center" TextAlignment="Center" FontSize="30" Margin="46,205,246,265"/>
 
         <Rectangle Grid.Column="1" Fill="#e3e3e3" Height="100" Width="250" VerticalAlignment="Bottom" Margin="0, 0, 50, 100" Stroke="Black" StrokeThickness="3" RadiusX="20" RadiusY="20" Opacity="0.8"/>
         <TextBlock x:Name="TXTTimerBianco" Grid.Column="1" Text="5:00" Height="100" Width="250" VerticalAlignment="Bottom" Margin="0, 0, 50, 100" TextAlignment="Center" FontSize="70"/>

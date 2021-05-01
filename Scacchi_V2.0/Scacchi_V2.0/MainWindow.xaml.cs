@@ -58,7 +58,7 @@ namespace Scacchi_V2._0
             timerBianco.Tick += TimerBianco_Tick;
             timerBianco.Interval = new TimeSpan(0, 0, 1);
 
-            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.4"), 56000);
+            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.7"), 56000);
 
             Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
             ricezione.Start(sourceSocket);
@@ -98,14 +98,13 @@ namespace Scacchi_V2._0
                             //Pezzo mangia l'altro
                             if (message[4].ToString() == "x")
                             {
-                                Pezzo.GetChildren(int.Parse(message[2].ToString()), int.Parse(message[3].ToString())).mangiato();
+                                Pezzo.GetChildren(int.Parse(message[0].ToString()), int.Parse(message[1].ToString())).mangiato();
                             }
                             p.Mosso = true;
                             p.R = int.Parse(message[2].ToString());
                             p.C = int.Parse(message[3].ToString());
 
                             //Arrocco
-                            /*
                             if (message[4].ToString() == "o")
                             {
                                 if (p.C > 4)
@@ -119,7 +118,6 @@ namespace Scacchi_V2._0
                                     Pezzo.GetChildren(p.R, p.C - 2).C = p.C + 1;
                                 }
                             }
-                            */
 
                             Pezzo.pulisci();
                             foreach (Pezzo P in MainWindow.pezzi)
