@@ -1,0 +1,48 @@
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.exe.config
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.exe
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.pdb
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0_MarkupCompile.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0_MarkupCompile.lref
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.g.resources
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2._0.Properties.Resources.resources
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.exe
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.pdb
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\App.baml
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.exe.config
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.exe
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.pdb
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0_MarkupCompile.cache
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0_MarkupCompile.lref
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\App.baml
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.g.resources
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2._0.Properties.Resources.resources
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.exe
+C:\Users\manue\Desktop\File\sQuola\informatica\esercizi visual studio\Esercizi VS 2k20\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.pdb
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.exe.config
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.exe
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\bin\Debug\Scacchi_V2.0.pdb
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0_MarkupCompile.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0_MarkupCompile.lref
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\App.baml
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.g.resources
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2._0.Properties.Resources.resources
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.exe
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.pdb
