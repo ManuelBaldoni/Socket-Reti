@@ -23,8 +23,8 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
-            <TextBlock Grid.Row="1" Text="8       7       6       5       4       3       2      1" TextWrapping="WrapWithOverflow" LineHeight="100" FontSize="20" HorizontalAlignment="Center" Foreground="#bbc4c4" Margin="0, 40, 0, 0"/>
-            <TextBlock Grid.Row="2" Grid.Column="1" Text="a                b                c                d                  e                f                g                h" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="#bbc4c4"/>
+            <TextBlock x:Name="TXTNumeri" Grid.Row="1" Text="8       7       6       5       4       3       2      1" TextWrapping="WrapWithOverflow" LineHeight="100" FontSize="20" HorizontalAlignment="Center" Foreground="#bbc4c4" Margin="0, 40, 0, 0"/>
+            <TextBlock x:Name="TXTLettere" Grid.Row="2" Grid.Column="1" Text="a                b                c                d                  e                f                g                h" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="#bbc4c4"/>
 
             <Image Grid.Column="1" Grid.Row="1" Source="/Immagini/scacchiera.png"/>
             

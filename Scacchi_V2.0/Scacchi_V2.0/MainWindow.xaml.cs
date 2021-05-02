@@ -193,6 +193,10 @@ namespace Scacchi_V2._0
                 rt = new RotateTransform(0);
                 GScacchiera.LayoutTransform = rt;
                 GMosse.LayoutTransform = rt;
+
+                //Numeri e Lettere
+                TXTNumeri.Text = "8       7       6       5       4       3       2      1";
+                TXTLettere.Text = "a                b                c                d                  e                f                g                h";
             }
             else if(CBXWB.SelectedIndex == 1)
             {
@@ -208,6 +212,10 @@ namespace Scacchi_V2._0
                 rt = new RotateTransform(180);
                 GScacchiera.LayoutTransform = rt;
                 GMosse.LayoutTransform = rt;
+
+                //Numeri e Lettere
+                TXTNumeri.Text = "1       2       3       4       5       6       7      8";
+                TXTLettere.Text = "h                g                f                e                  d                c                b                a";
             }
 
             //Pezzi
