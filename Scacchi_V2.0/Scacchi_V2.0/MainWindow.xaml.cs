@@ -41,6 +41,10 @@ namespace Scacchi_V2._0
         public static DispatcherTimer timerNero;
         public static DispatcherTimer timerBianco;
 
+        public const string sourceIP = "192.168.1.4";
+        public const string destinationIP = "192.168.1.8";
+        public const int porta = 56000;
+
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             pezzi = new List<Pezzo>();
@@ -58,7 +62,7 @@ namespace Scacchi_V2._0
             timerBianco.Tick += TimerBianco_Tick;
             timerBianco.Interval = new TimeSpan(0, 0, 1);
 
-            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.8"), 56000);
+            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse(sourceIP), porta);
 
             Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
             ricezione.Start(sourceSocket);
