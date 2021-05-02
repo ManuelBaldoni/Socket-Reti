@@ -260,7 +260,7 @@ namespace Scacchi_V2._0.Classi
 
         private void Mossa_Click(object sender, RoutedEventArgs e)
         {
-            string ipAdress = "192.168.1.4";
+            string ipAdress = "192.168.1.7";
             int port = 56000;
 
             SocketSend(IPAddress.Parse(ipAdress), port, $"{this.R}{this.C}{Grid.GetRow((Button)sender)}{Grid.GetColumn((Button)sender)}{((Button)sender).Name}");

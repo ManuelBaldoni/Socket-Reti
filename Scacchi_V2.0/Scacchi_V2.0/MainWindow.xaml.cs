@@ -58,7 +58,7 @@ namespace Scacchi_V2._0
             timerBianco.Tick += TimerBianco_Tick;
             timerBianco.Interval = new TimeSpan(0, 0, 1);
 
-            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.7"), 56000);
+            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.8"), 56000);
 
             Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
             ricezione.Start(sourceSocket);
@@ -86,9 +86,8 @@ namespace Scacchi_V2._0
 
                         this.Dispatcher.BeginInvoke(new Action(() =>
                         {
-                            TXTMosse.Text += "\n" + message;
 
-                            int r = int.Parse(message[2].ToString()), c = int.Parse(message[3].ToString());
+                            int r = int.Parse(message[0].ToString()), c = int.Parse(message[1].ToString());
                             Pezzo p = Pezzo.GetChildren(r, c);
 
                             //Suono del pezzo
@@ -98,7 +97,7 @@ namespace Scacchi_V2._0
                             //Pezzo mangia l'altro
                             if (message[4].ToString() == "x")
                             {
-                                Pezzo.GetChildren(int.Parse(message[0].ToString()), int.Parse(message[1].ToString())).mangiato();
+                                Pezzo.GetChildren(int.Parse(message[2].ToString()), int.Parse(message[3].ToString())).mangiato();
                             }
                             p.Mosso = true;
                             p.R = int.Parse(message[2].ToString());
@@ -174,6 +173,49 @@ namespace Scacchi_V2._0
             {
                 //Quando Bianco vince
             }
+        }
+
+        private void CBXWB_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            //Scacchiere e Timers
+            RotateTransform rt = new RotateTransform(0);
+            if (CBXWB.SelectedIndex == 0)
+            {
+                //Timer Bianco
+                TXTTimerBianco.Margin = new Thickness(0, 0, 50, 100);
+                TXTTimerBianco.VerticalAlignment = VerticalAlignment.Bottom;
+
+                //Timer Nero
+                TXTTimerNero.Margin = new Thickness(0, 100, 50, 0);
+                TXTTimerNero.VerticalAlignment = VerticalAlignment.Top;
+
+                //Scacchiere
+                rt = new RotateTransform(0);
+                GScacchiera.LayoutTransform = rt;
+                GMosse.LayoutTransform = rt;
+            }
+            else if(CBXWB.SelectedIndex == 1)
+            {
+                //Timer Bianco
+                TXTTimerBianco.Margin = new Thickness(0, 100, 50, 0);
+                TXTTimerBianco.VerticalAlignment = VerticalAlignment.Top;
+
+                //Timer Nero
+                TXTTimerNero.Margin = new Thickness(0, 0, 50, 100);
+                TXTTimerNero.VerticalAlignment = VerticalAlignment.Bottom;
+
+                //Scacchiere
+                rt = new RotateTransform(180);
+                GScacchiera.LayoutTransform = rt;
+                GMosse.LayoutTransform = rt;
+            }
+
+            //Pezzi
+            foreach (Pezzo p in pezzi)
+            {
+                ((Image)p.B.Content).LayoutTransform = rt;
+            }
+
         }
 
         void creaPezzi()
