@@ -32,7 +32,7 @@ namespace Progetto_Socket
 
         private void BTNSocket_Click(object sender, RoutedEventArgs e)
         {
-            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("10.73.0.3"), 56000);
+            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse("192.168.1.4"), 56000);
 
             BTNInvia.IsEnabled = true;
 

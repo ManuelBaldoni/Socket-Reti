@@ -46,3 +46,5 @@ C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi
 C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.csproj.CoreCompileInputs.cache
 C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.exe
 C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Scacchi_V2.0.pdb
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Impostazioni.g.cs
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Scacchi_V2.0\Scacchi_V2.0\obj\Debug\Impostazioni.baml

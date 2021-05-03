@@ -74,6 +74,7 @@
                 </Grid.RowDefinitions>
             </Grid>
         </Grid>
+        
         <Rectangle Grid.Column="1" Fill="#e3e3e3" Height="100" Width="250" VerticalAlignment="Top" Margin="0, 100, 50, 0" Stroke="Black" StrokeThickness="3" RadiusX="20" RadiusY="20" Opacity="0.8"/>
         <TextBlock x:Name="TXTTimerNero" Grid.Column="1" Text="5:00" Height="100" Width="250" VerticalAlignment="Top" Margin="0, 100, 50, 0" TextAlignment="Center" FontSize="70" Panel.ZIndex="10"/>
 
@@ -88,5 +89,9 @@
         
         <Rectangle Grid.Column="1" Fill="#e3e3e3" Height="100" Width="250" VerticalAlignment="Bottom" Margin="0, 0, 50, 100" Stroke="Black" StrokeThickness="3" RadiusX="20" RadiusY="20" Opacity="0.8"/>
         <TextBlock x:Name="TXTTimerBianco" Grid.Column="1" Text="5:00" Height="100" Width="250" VerticalAlignment="Bottom" Margin="0, 0, 50, 100" TextAlignment="Center" FontSize="70" Panel.ZIndex="10"/>
+
+        <Button x:Name="BTNImpostazioni" Grid.Column="1" Width="40" Height="40" VerticalAlignment="Top" HorizontalAlignment="Right" Click="BTNImpostazioni_Click">
+            <Image Source="/Immagini/Impostazioni.png"/>
+        </Button>
     </Grid>
 </Window>

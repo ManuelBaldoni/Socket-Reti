@@ -13,3 +13,18 @@ C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Proget
 C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.csproj.CoreCompileInputs.cache
 C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.exe
 C:\Users\manuel.baldoni\Desktop\Progetto Socket\Progetto Socket\obj\Debug\Progetto Socket.pdb
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\bin\Debug\Progetto Socket.exe.config
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\bin\Debug\Progetto Socket.exe
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\bin\Debug\Progetto Socket.pdb
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket_MarkupCompile.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket_MarkupCompile.lref
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket.g.resources
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto_Socket.Properties.Resources.resources
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket.exe
+C:\Users\manue\Desktop\File\sQuola\sitemi e reti packetracer\Socket-Reti\Progetto Socket\obj\Debug\Progetto Socket.pdb

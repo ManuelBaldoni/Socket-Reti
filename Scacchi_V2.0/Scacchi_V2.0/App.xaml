@@ -60,5 +60,8 @@
                 </Setter.Value>
             </Setter>
         </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
     </Application.Resources>
 </Application>

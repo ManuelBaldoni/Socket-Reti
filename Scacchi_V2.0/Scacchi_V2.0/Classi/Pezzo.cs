@@ -29,6 +29,7 @@ namespace Scacchi_V2._0.Classi
                 r = value;
             }
         }
+
         private int c;
         public int C
         {
@@ -42,6 +43,7 @@ namespace Scacchi_V2._0.Classi
                 c = value;
             }
         }
+
         public string Tipo { get; set; }
         public string Colore { get; set; }
         public Button B { get; set; }
@@ -260,7 +262,6 @@ namespace Scacchi_V2._0.Classi
 
         private void Mossa_Click(object sender, RoutedEventArgs e)
         {
-
             SocketSend(IPAddress.Parse(MainWindow.destinationIP), MainWindow.porta, $"{this.R}{this.C}{Grid.GetRow((Button)sender)}{Grid.GetColumn((Button)sender)}{((Button)sender).Name}");
 
             //Suono del pezzo
