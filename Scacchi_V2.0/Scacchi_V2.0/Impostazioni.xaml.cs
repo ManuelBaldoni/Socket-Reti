@@ -50,6 +50,11 @@ namespace Scacchi_V2._0
 
             Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
             ricezione.Start(sourceSocket);
+
+            //ToDo Controlli input 
+
+            this.Hide();
+            this.Close();
         }
 
         public async void SocketReceive(object socketSource)
