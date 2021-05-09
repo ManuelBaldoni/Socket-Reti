@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Scacchi_V2._0"
         mc:Ignorable="d"
-        Title="Impostazioni" Height="450" Width="800"  WindowStyle="ToolWindow" Background="#3e4242" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Closed="Window_Closed">
+        Title="Impostazioni" Height="450" Width="800"  WindowStyle="ToolWindow" Background="#3e4242" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Closed="Window_Closed" KeyDown="Window_KeyDown">
     <Grid>
         <StackPanel VerticalAlignment="Center">
             <StackPanel Orientation="Horizontal" Margin="10">

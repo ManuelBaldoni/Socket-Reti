@@ -43,7 +43,8 @@ namespace Scacchi_V2._0
 
         public static string sourceIP = "";
         public static string destinationIP = "";
-        public static int porta = 56000;
+        public static int sourcePort;
+        public static int destinationPort;
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {

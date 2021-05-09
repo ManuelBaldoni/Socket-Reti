@@ -262,7 +262,11 @@ namespace Scacchi_V2._0.Classi
 
         private void Mossa_Click(object sender, RoutedEventArgs e)
         {
-            SocketSend(IPAddress.Parse(MainWindow.destinationIP), MainWindow.porta, $"{this.R}{this.C}{Grid.GetRow((Button)sender)}{Grid.GetColumn((Button)sender)}{((Button)sender).Name}");
+            if(MainWindow.destinationIP != "")
+            {
+                //To do se le impostazioni non sono state ancora messe
+                SocketSend(IPAddress.Parse(MainWindow.destinationIP), MainWindow.destinationPort, $"{this.R}{this.C}{Grid.GetRow((Button)sender)}{Grid.GetColumn((Button)sender)}{((Button)sender).Name}");
+            }
 
             //Suono del pezzo
             SoundPlayer sp = new SoundPlayer("mossaPezzo.wav");
@@ -378,6 +382,5 @@ namespace Scacchi_V2._0.Classi
         {
             return !(p1 == p2);
         }
-
     }
 }

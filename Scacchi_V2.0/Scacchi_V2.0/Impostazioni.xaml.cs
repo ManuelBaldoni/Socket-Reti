@@ -41,20 +41,7 @@ namespace Scacchi_V2._0
 
         private void BTNOk_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow.porta = int.Parse(TXTSourcePort.Text);
-            MainWindow.sourceIP = TXTSourceIP.Text;
-            MainWindow.destinationIP = TXTDestinationIP.Text;
-
-            //Per comunicazione
-            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse(MainWindow.sourceIP), MainWindow.porta);
-
-            Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
-            ricezione.Start(sourceSocket);
-
-            //ToDo Controlli input 
-
-            this.Hide();
-            this.Close();
+            Invia();
         }
 
         public async void SocketReceive(object socketSource)
@@ -134,6 +121,34 @@ namespace Scacchi_V2._0
                     }
                 }
             });
+        }
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter)
+            {
+                Invia();
+            }
+        }
+
+        private void Invia()
+        {
+            MainWindow.sourcePort = int.Parse(TXTSourcePort.Text);
+            MainWindow.destinationPort = int.Parse(TXTDestinationPort.Text);
+
+            MainWindow.sourceIP = TXTSourceIP.Text;
+            MainWindow.destinationIP = TXTDestinationIP.Text;
+
+            //Per comunicazione
+            IPEndPoint sourceSocket = new IPEndPoint(IPAddress.Parse(MainWindow.sourceIP), MainWindow.sourcePort);
+
+            Thread ricezione = new Thread(new ParameterizedThreadStart(SocketReceive));
+            ricezione.Start(sourceSocket);
+
+            //ToDo Controlli input 
+
+            this.Hide();
+            this.Close();
         }
     }
 }
